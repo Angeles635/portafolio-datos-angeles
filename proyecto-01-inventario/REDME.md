@@ -24,5 +24,5 @@ Python · pandas · NumPy · Power BI
 | analisis.py | Clasificación ABC, punto de reorden y rotación 
 | inventario_analizado.csv | Dataset final con todas las indicaciones
 
-## Dashboaard
+## Dashboard
 ![Dashboard](dashboard.png)
