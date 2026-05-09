@@ -17,7 +17,7 @@ Una empresa con más de 2,000 SKUs no tenía visibilidad sobre qué productos es
 - Technology lidera el valor del inventario, seguido del Furniture
 
 ## Herramientas
--Python     -pandas     -NumPy     -Power Bi
+Python · pandas · NumPy · Power BI
 
 ## Archivos
 | limpieza.py | Carga, limpieza y estructura de datos
@@ -25,4 +25,4 @@ Una empresa con más de 2,000 SKUs no tenía visibilidad sobre qué productos es
 | inventario_analizado.csv | Dataset final con todas las indicaciones
 
 ## Dashboaard
-[Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
